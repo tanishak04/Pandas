@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary,Experience,City,Rating
+101,Alice,25,HR,45000,2,Delhi,4.2
+102,Bob,30,IT,60000,5,Mumbai,4.5
+103,Charlie,,Finance,55000,4,Pune,4.1
+104,David,28,IT,,3,Bangalore,4.3
+105,Eva,35,HR,70000,,Delhi,
+106,Frank,29,Sales,50000,3,,3.8
+107,Grace,31,Finance,65000,6,Chennai,4.7
+108,Henry,27,IT,58000,2,Mumbai,
+109,Ivy,,Sales,52000,3,Pune,4.0
+110,Jack,33,HR,72000,8,Delhi,4.8
